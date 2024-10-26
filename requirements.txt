@@ -1,0 +1,7 @@
+python-pptx
+uvicorn
+fastapi
+openai
+SpeechRecognition
+python-multipart
+mangum
