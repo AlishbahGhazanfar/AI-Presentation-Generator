@@ -11,7 +11,7 @@ from pptx.enum.text import PP_ALIGN
 
 
 # Set up OpenAI API key
-openai.api_key = "sk-svcacct-MklMoHAlVpjrQXnU8j_0FM_S3UpIG3NZqUnGacRDVjO-9d6CIGVIhpMMtjO800AT3BlbkFJRD2guGV26y93k0zPsKWPdfXrG2EEcOwvwlWZqZdzjGSklQ454mXu5t4VFg7aJAA"  # Replace with your OpenAI API key
+openai.api_key = "Enter your api"  # Replace with your OpenAI API key
 
 # Function to generate slide content using the OpenAI ChatCompletion API
 def generate_presentation_content(topic):
